@@ -1,0 +1,11 @@
+{
+  "org": "coleifer",
+  "repo": "sqlcipher3",
+  "versions": [
+    {
+      "commit": "e0fad03cbe0a6f4e0960c2f3b676f5e0533fc09e",
+      "tag": "0.6.4",
+      "parsed_at": "2026-10-20T22:14:43.676554+00:00"
+    }
+  ]
+}
