@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/sqlcipher3/commit/e0fad03cbe0a6f4e0960c2f3b676f5e0533fc09e",
       "git:hexsha": "e0fad03cbe0a6f4e0960c2f3b676f5e0533fc09e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.6.4"
     },
     {
